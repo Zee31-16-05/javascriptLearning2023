@@ -26,3 +26,4 @@ let res = 0
 //     return acc
 // },{})
 // console.log(result)
+console.log("zeeshan brachn");
