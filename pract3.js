@@ -26,4 +26,8 @@ let res = 0
 //     return acc
 // },{})
 // console.log(result)
+/* The line `console.log("zeeshan brachn");` is simply outputting the string "zeeshan brachn" to the
+console. */
 console.log("zeeshan brachn");
+
+
